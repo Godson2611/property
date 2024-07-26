@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #fafafa;
+}
+
+.bg__blue {
+  background-color: #1d72db;
+}
+
+.blue {
+  color: #1d72db !important;
+}
+
+.bg__green {
+  background: rgba(80, 191, 151, 1);
+}
+
+.bg__light__orange {
+  background: rgba(247, 113, 35, 0.301);
+}
+
+.orange {
+  color: rgba(247, 114, 35, 1);
+}
+
+.like__gray {
+  color: rgba(188, 199, 206, 1);
+}
+
+.light__gray {
+  color: rgba(188, 199, 206, 1);
+}
+
+.bg__light__gray {
+  background: rgba(237, 244, 249, 1);
+}
+
+.bg__light__green {
+  background: rgba(36, 115, 78, 0.337);
+}
+
+.btn__green {
+  color: rgba(36, 115, 78, 1);
+}
+
+.green {
+  color: rgba(80, 191, 151, 1);
+}
+
+.bg__gray {
+  background-color: #edf4f9;
+}
+
+.gray {
+  color: rgba(50, 61, 90, 1);
+}
+.bg__color {
+  background-color: #fafafa;
+}
+
+.form-control::placeholder {
+  color: rgb(189, 189, 189);
+}
+
+.form-control:-ms-input-placeholder {
+  color: rgb(189, 189, 189);
+}
+
+.form-control::-ms-input-placeholder {
+  color: rgb(189, 189, 189);
+}
